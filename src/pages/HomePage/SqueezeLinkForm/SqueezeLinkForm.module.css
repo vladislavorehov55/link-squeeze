@@ -1,0 +1,22 @@
+.form {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.linkInput {
+  height: 40px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  flex-basis: 90%;
+  outline: none;
+}
+.btn {
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 40px;
+  padding: 5px 10px;
+  margin-left: 5px;
+  cursor: pointer;
+}
